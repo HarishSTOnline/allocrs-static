@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Pacifico&display=swap');
+
+body, html {
+    display: grid;
+    height: 100vh;
+}
+
+body {
+    background: linear-gradient(to right, #928DAB, #00d2ff);
+}
+
+.div-center {
+    margin: auto;
+    text-align: center;
+    color: #fff;
+}
+
+.fs-26 {
+    font-size: 26px;
+}
+.fs-60 {
+    font-size: 60px;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+.pacifico {
+    font-family: 'Pacifico', cursive;
+}
